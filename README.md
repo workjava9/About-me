@@ -1,7 +1,7 @@
 Направление: Java-backend (web-разработчик)
 
 Навыки:
-Языки; Java, JavaScript
+Языки; Java, JavaScript.
 Языки Запросов; SQL, HQL.
 (СУБД); Реляционные: MySQL,PostgreSQL,SQLite.
 NoSQL (нереляционные); MongoDB,Redis.
